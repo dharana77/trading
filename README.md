@@ -1,0 +1,2 @@
+# trading
+my trading room
